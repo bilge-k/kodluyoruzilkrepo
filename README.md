@@ -8,18 +8,18 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 ---
 ## Proje clonlandı
-'''
+```
 [Git clone] (https://github.com/bilge-k/kodluyoruzilkrepo.git)
-'''
+```
 #Ustage
 
 ---
 ## Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 ## Linux için:
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 # Contributing
 
 ---
